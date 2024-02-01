@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Spring Boot Api<br>👯 I’m looking to collaborate on Robotics Project<br>🌱 I’m currently learning java
+🔭 I’m currently working on Shorting Machin<br>👯 I’m looking to collaborate on Robotics Project<br>🌱 I’m currently learning Python
 
 
 ## 🌐 Socials:
