@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Software development and Robotics <br>👯 I’m looking to collaborate on Robotics Project<br>🌱 I’m currently learning ReactJS and ROS
+🔭 I’m currently working on Mobile App Development, Software development and Robotics <br>👯 I’m looking to collaborate on Robotics Project<br>🌱 I’m currently learning ReactJS and ROS
 
 
 ## 🌐 Socials:
